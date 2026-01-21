@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/out
+/.angular
+/.vscode
+/.idea
+/.history
+npm-debug.log
+yarn-error.log
+.env
